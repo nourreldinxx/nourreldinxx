@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nour El-Din Ahmed
  =========================================================================================================================================
  
- Flutter Developer - software tester 
+ Flutter Developer  
  -----------------------------------
  
- I am a dedicated Computer Science student in the third year, eager to learn, experiment, and grow while contributing to dynamic teams, striving to significantly impact the tech industry with my innovative ideas and practical solutions.
+ I am a dedicated Computer Science Graduate, eager to learn, experiment, and grow while contributing to dynamic teams, striving to significantly impact the tech industry with my innovative ideas and practical solutions.
  
  * 🌍  I'm based in Egypt
  * 🖥️  See my portfolio at [MyPortfolio](http://https://about-noureldin.my.canva.site/portfolio)
